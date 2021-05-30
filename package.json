@@ -1,0 +1,7 @@
+{
+    "name": "moleculer_test",
+    "version": "0.1.0",
+    "dependencies": {
+        "moleculer": "^0.14.13"
+    }
+}
